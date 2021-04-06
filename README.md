@@ -6,3 +6,6 @@ where users could easily move to the 4 or 5 most used parts of the app. Using ad
 such as Verizon Up Rewards was frequently used by Users. However, a large number of customers complained that they needed to open the side navbar and then locate Verizon
 Up Rewards before clicking on it just to see their montly rewards. To remove this hassle, our team included the Verizon Up rewards in the navbar so users could quickly 
 tap and get to see any great deals they got. 
+
+ezgif.com-crop (1).gif - is the original layout 
+ezgif.com-crop (3).gif - is the new layout
