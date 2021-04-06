@@ -7,5 +7,7 @@ such as Verizon Up Rewards was frequently used by Users. However, a large number
 Up Rewards before clicking on it just to see their montly rewards. To remove this hassle, our team included the Verizon Up rewards in the navbar so users could quickly 
 tap and get to see any great deals they got. 
 
-ezgif.com-crop (1).gif - is the original layout 
+ezgif.com-crop (1).gif - is the original layout and 
+
+
 ezgif.com-crop (3).gif - is the new layout
